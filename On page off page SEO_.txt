@@ -1,0 +1,298 @@
+website development
+
+Wordpress
+
+Digital Ad Platform:
+
+Search Engine Optimization:
+
+SEO is the process of improving a website to get more organic traffic from search engines.
+
+	On-Page SEO → The process of optimizing the elements within a page to improve ranking and visibility in the search engine is called on-page SEO.
+			
+			optimizing content, meta tags, titles, keywords, internal links.
+
+
+	Off-Page SEO → Focuses on building your website’s trust, authority and reputation through external activities to improve rankings and visibility."
+				   Ex: Backlinks, guest posting.
+    
+	Technical SEO: Optimizing website structure, Performance, speed, and crawlability to help search engines index and page Ranking effectively.
+	
+	Local SEO → Focuses on optimizing a website for local searches and google map visibility.
+				Google My Business, Name Address Phone Number consistency
+				
+List of search Engines:
+	Google
+	Bing Microsoft
+	Yahoo
+	DuckDuckGo
+	Baidu - China
+	Yandex - Russia
+	Naver - South Korea
+
+Web Browsers
+  Browsers are applications that are mandatory used to open and view websites
+	Google Chrome
+	Mozilla Firefox
+	Microsoft Edge
+	Apple Safari
+	Opera
+
+
+List of ON-Page SEO Technique:
+	White Hat SEO:
+		Meta Title - 60 char -- It Appears in SERP 
+		
+		Meta Description - 160 char - It Appears in SERP
+		
+		Keyword - for 300 words 5 keywords.
+			Keywords help search engines understand what a webpage is about. When used naturally in content, they help the page
+            appear in search results and bring the right visitors to the website.
+		
+		Google Keyword Planner(Tool for Keywords) 
+		
+		Image Alternative Text 
+			Image Alt text is used to -- describe images in words so Google can index them properly.
+		
+		High Quality, Original, Relevant Content
+		
+		Keyword Placement - Title, Description, Heading, content, URL
+		
+		SEO Friendly URL
+		
+		Header Tag:
+			H1 Tag - 1 Time 
+			H2 Tag - 5 Time 
+			H3 to H6 - No limit we can use based on the length of the content.
+		
+		Social Signal:
+			Facebook
+			X (Twitter)
+			Instagram
+			Mail
+			Thread
+		
+		Internal Links
+			Internal links are links that connect one page of a website to another page on the same website.
+		
+		Outbound Link
+			An outbound link is a link when user click on any link on one website then it will lead to takes users to another website.
+		
+		Canonical Issue:
+
+			canonical issue occurs when multiple URLs contain the same or very similar content, and search engines do not know which version is the “main” or preferred page.
+			This creates duplicate content, affects in ranking signals, and confuses Google about which URL to index and rank.
+			The fix is done by using a canonical tag.
+		
+		Canonical Syntax:
+			Should be put under head section of html.
+			<link rel="canonical" href="url_link" />
+		
+		When product is promoted on FB, IG, Google Ads.
+			On the page you promoted just add the canonical tag. It will ignore the parameters. And the page is treated as main page.
+			
+	Black Hat SEO:
+		Keyword Stuffing
+			Keyword stuffing is the practice of using the same keyword too many times on a webpage in an unnatural way to try to rank higher in search engines.
+		Cloaking -- Fake Promotion
+		Hidden Text and links
+		Duplicate Content
+		Negative SEO
+		
+Tools Used:
+		Keyword: Google Keyword Planner
+		Keyword Research : SEMRush / Ahref
+		Content Optimization: Surfer SEO / SEOQuake/ SEO Meta In 1 click
+		On-Page Audit: Screaming Frog Application
+		Content Readability: Grammarly
+		Image Optimization: Canva / tiny.png
+		
+		
+(Date) Daily Work Report
+
+Login Time: 
+
+Activity Summary: 
+
+Logout Time:
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+List of OFF Page SEO Technique:
+	Backlink Building:
+		Backlink building is a manual, intentional SEO activity where you actively work to get links from other websites.
+	
+   	Backlink Generating:
+		Backlink generating happens naturally, without direct outreach or requests. Other websites link to your content on their own.
+		
+		High Quality Backlinks
+		Guest Posting
+			In guest posting, you contact (approach) another website owner or blog editor and request permission to publish your article on their site.
+		Relevant Backlink
+		Broken link Building
+		Brand Mention
+		Influencer Outreach
+		Blogger Outreach
+		Q/A Platform (Quora, Reddit)
+		
+		Blog Submission - (blogger.com)
+			Blog comment
+			blog post
+			Leave a reply
+		
+		Article Submission
+		  for a article minimum 1200 words 
+		  along with proper image.
+			Fatjoe Title Generator
+			duplicate checker.com
+			Medium.com
+			behance.com
+		
+		Profile Submission
+			FB, Instagram, X(Twitter),LinkedIn, Thread
+		
+		Directory Submission
+			Directory submission means listing your website or business details in an online directory.
+			
+			Example:
+				Justdial
+		 
+		 Classifields Submission		
+			Classified submission means posting ads about your products or services on classified websites.
+			Example:
+			OLX 
+			Facebook Marketplace
+			
+		PowerPoint submission
+			Slideshare.com
+		
+		Infographics Submission	
+			Infographic Image	
+			An infographic image is a visual representation of information, data, or a process using images, icons, charts, and short text to make the content easy to understand.
+			
+		Social Bookmarking:
+			Social bookmarking sites are platforms where you save and share website links to gain visibility, traffic, and supporting backlinks.
+			Ex: reddit, pinterest.
+			
+		What is Domain Authority?
+			Domain Authority (DA) is a metric developed by SEO tools Moz, SEMRush that predicts rank on website in the search engine results pages. It is scored on a scale from 1 to 100, where higher scores indicate a stronger ability to rank.
+			Although DA is not a Google ranking factor, “It is commonly used to measure how strong and trustworthy a website is. 
+			
+			Should be greater than 35%
+		
+		What is Spam Score?
+		    Spam Score shows whether a website looks safe or suspicious based on its links and content.
+			Low Spam Score → Website looks clean and trustworthy
+			High Spam Score → Website looks risky or spammy
+			Spam score should be less than 10%.
+		
+		
+		Bounce Rate:
+		Bounce Rate is the percentage of visitors who visit a webpage and leave without interacting further—such as clicking another page, 	filling a form, or engaging with the content.
+			
+					Single Page session
+	bounce rate =	-------------------   X 100
+					  Total Session       
+					  
+				= 400 / 1000 X 100 ==> 40%
+
+	Here
+	 Session: 
+	    A session is the time a user spends on your website from entry to exit.
+		In a day a user can have multiple session of a webiste.
+	
+	Bounce Rate 
+	
+	< 30%     -->Excellent
+	30% - 40% --> Good
+	40 - 50   --> OK
+	Above 50  --> Bad
+	
+
+To find our competitor check : put a keyword in a incognito window and find it.
+------------------------------------------------------------------------------------------------
+
+Formula For creating a meta title:
+
+Best/Top/Top 10 + Service/product + Category (institude/service) + Benefits + site name
+
+Best digital marketing training in kovilpatti | 100% placements | Getin Technologies
+e
+
+----
+
+40 easy ways to make money quickly
+
+31 ways to make money in 2025
+
+30 ways to lose weight naturally
+
+how to lose weights fast - 9 scientific ways to drop fat
+
+9 proven ways to lose weight for busy people - Entrepreneur
+
+The 7 common mistake dog owners make in the winter
+
+10 mistakes first time dog owners to avoid - inside dog world
+
+7 common mistakes dog owners make | Pet coach
+
+7 secrects to living long and happy life
+
+7 secrects to linving long and well
+
+9 fitness hack for good looking
+
+12 common coding mistakes in python coding
+
+
+
+
+Semrush, ahref,ubersuggest, moz
+
+
+Google Search Console (GSC) is a free Google tool used to monitor, analyze, and optimize a website’s performance in Google Search results.
+
+
+
+premium coffee powder 
+
+Delicious coffee, ready in seconds. Our instant coffee in Original & French Vanilla flavors now comes with a FREE Ground Coffee Mug! Made from leftover coffee grounds, this sustainable mug serves more than just looks. Enjoy 100% Arabica coffee with a mug that goes wherever you go.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Worked with PostgreSQL databases and handled migrations using makemigrations and migrate.
+
+
+
+
+
+https://bpucwg-gp.myshopify.com/products/hisense-u7k-qled-4k-mini-led-tv-with-dolby-vision
+
+
+
+
+
+SEMRush
+Ahref
+Moz
+Uber Suggest
+
+
+Screaming frog
+
+
+
+He's not able to understand when guiding something, not able to recollect the concept. He's not able to search on internet do things.

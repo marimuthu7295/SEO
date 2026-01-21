@@ -1,0 +1,166 @@
+Technical SEO:
+	Technical SEO focuses on optimizing a website’s infrastructure so search engines can crawl, understand, index, and rank pages efficiently.
+
+	Robots.txt:
+		Robots.txt is a simple text file placed in the root of a website that gives instructions to search engine crawlers about which pages to index or not index. It helps control crawler activity, manage server load, and prevent indexing of sensitive or unnecessary pages.
+		
+	Search Engine and their bots.
+	
+		Google
+		Google Search → Googlebot			
+		Google Mobile → Googlebot-Mobile (merged into Googlebot)
+		Google Images → Googlebot-Image
+	
+		Microsoft Bing (MSN)
+		Bing Search / MSN Search → Bingbot
+		MSN Image Search → Bingbot-Image
+		MSN Video Search → Bingbot-Video
+		
+		Yahoo
+		Yahoo Search → Slurp
+	
+	User agent:
+		Any thing that accesses website and requests data is a user agent.
+		This includes browsers, search engine bots, download managers,APIs.
+	
+	Crawl Delay:
+		Use Crawl Delay when your site is on shared or low-resource hosting.
+
+	Disallow:
+	  Do not crawl this page or folder.		
+		Disallow: /admin/
+		Disallow: /cart
+		Disallow: /checkout
+		Disallow: /orders
+		Disallow: /account
+		Disallow: /search
+		
+Site Map:
+	A sitemap is a file that lists all important pages of a website to help search engines crawl and index them easily.
+	It is in XML format.
+	example.
+	www.google.com/sitemap.xml
+	
+	Size limit:
+	50K url and file size limit upto 50MB.
+
+we will submit sitemap in google search console to deploy.
+
+
+Schema: (Rich Schmea)
+	It is a type of code that can add to your website so that search engine can better understand your content.
+	
+
+	Why is Schema Important?
+		It improves how your page appears in SERP (Search Engine Results Page)
+		
+	Benefits of Schema:
+		Better Indexing
+		Richer Search Results
+		More relevant traffic
+		Improved user experience
+
+	Examples of Schema in SEO:
+	
+		Article
+		Blog
+		Product
+		Local Business
+		FAQ (Frequently Asked Questions)
+		Recipe
+		Event
+		Review
+		Breadcrumb
+			(Shows site structure) Home > Category > Page
+			
+		<script type='application/ld+json'> 
+			{
+			  "@context": "http://www.schema.org",
+			  "@type": "product",
+			  "brand": "LG",
+			  "name": "LG 43 INCH Television",
+			  "description": "The good product",
+			  "aggregateRating": {
+				"@type": "aggregateRating",
+				"ratingValue": "4",
+				"reviewCount": "1000"
+			  }
+			}
+		</script>
+	
+Rich Snippets:
+		Search Engine shows extra details in the such as price,review,availability,image,FAQ.
+		It will help increase traffic to the website.
+
+Common Types of rich snippets are:
+		Review
+		Receipt
+		Organization
+		Video
+		Article
+		FAQ
+		Events
+
+Error Code Shown In Search Engine:
+
+301 - Webpage Moved Permanently
+
+302 - Temporary Redirect
+
+404 -  Page deleted or URL typo
+	- A 404 Error occurs when the server cannot find the requested page or resource.
+	  This means the URL exists in the browser, but the server has no matching page at that location.
+	  Common reasons include deleted pages, broken internal or external links, and server misconfigurations. It basically means the URL exists, but there is no content at that location.
+	
+503 - Service Unavailable / Server overload or maintenance
+	- A 503 error occurs when the server is temporarily unable to handle the request.
+      Unlike other errors, 503 means the server is working, but it cannot process the request at that moment due to temporary overload or
+      maintenance.
+
+504 - Slow server response
+
+----------------------------------------------
+
+Disavow Tool 
+
+	By removing toxic backlinks we can use this tool. 
+	
+	Only accept txt file
+	
+	We can remove one domain only.
+	
+	If we want to remove another website backlink we need to create another text file.
+	
+	need more careful when execute the process. if we paid backlinks also removed. 
+	
+-----------------------------------------------------------------------------------------------------
+
+Core Web Vitals: A set of metrics used by Google to measure website speed, stability, and user experience.
+
+		Core Web Vital			 What It Measures					        Simple Explanation									Good Score
+FCP (First Contentful Paint)	Initial loading speed		How fast the first visible content appears on the screen			under 1.8 sec
+LCP (Largest Contentful Paint)	Loading performance			How fast the main content of the page loads                         under 2.5 sec
+CLS (Cumulative Layout Shift)	Visual stability			How much the page layout moves unexpectedly while loading            under 0.1 sec
+INP (Interaction to Next Paint)	Interactivity				How fast the page responds to user actions                          under 200 microseconds
+
+-------------------------------------------------------------------------------------------------------
+
+Local SEO:
+
+Local SEO → Focuses on optimizing a website for local searches and google map visibility.
+
+Google Business Profile, Name Address Phone Number consistency, local citations.
+
+Local Keyword Targeting (Best bakery in kovilpatti)
+
+Address and service area must be correct
+
+Use the most relevant primary category
+
+Avoid keyword stuffing in business name
+
+One real location = One business profile
+
+https://support.google.com/business/answer/7667250?hl=en
+
+Google My Business Account creation.
